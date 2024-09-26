@@ -1,0 +1,153 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/10/selena-gomez-se-toma-otro-descanso-en-las-redes-sociales-tras-el-drama-de-los-golden-globes-con-kylie/ HTTP/11" 200 41614
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/09/kendall-jenner-bad-bunny-first-snap-since-split/ HTTP/11" 200 40565
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/23/kanye-west-launch-yeezy-porn-partner-stormy-daniels-ex-husband/ HTTP/11" 200 42138
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/06/kris-jenner-met-gala-look-like-bride-kim-kardshian-stuns-fashion/ HTTP/11" 200 43048
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/12/italian-fashion-designer-roberto-cavalli-dead-dies-83-rip/ HTTP/11" 200 35505
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/17/celebs-vacaying-in-aspen/ HTTP/11" 200 34284
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/29/bianca-censori-la-mujer-de-kanye-west-muestra-sus-pechos-con-un-top-muy-ajustado/ HTTP/11" 200 42957
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/29/caitlyn-jenner-scrubbed-son-brandon-reality-tv-show-not-happy/ HTTP/11" 200 38132
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/26/kim-kardashian-bianca-censori-look-fashion-instagram/ HTTP/11" 200 39954
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/18/kardashian-family-therapy-khloe-needs-most-kim-paris-robbery/ HTTP/11" 200 42891
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/15/kim-k-vuelve-a-la-orbita-de-bianca-y-kanye-para-apoyar-a-north/ HTTP/11" 200 44766
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/19/taylor-swift-backlash-lyrics-new-song-live-1830s-tortured-poets-album/ HTTP/11" 200 39214
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/18/kim-kardashian-mariah-carey-doja-cat-nobu-malibu/ HTTP/11" 200 38067
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/10/oscars-weekend-parties-celebrities-hollywood-kris-jenner-jeff-bezos/ HTTP/11" 200 None
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/23/leah-mcsweeney-dice-que-andy-cohen-deberia-disculparse-con-kate-middleton/ HTTP/11" 200 42635
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/07/josh-flagg-diddy-home-raids-neighbors-real-estate-prices/ HTTP/11" 200 41096
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/28/fffffkanye-west-bianca-censori-tiny-shorts-take-north-west-deadpool/ HTTP/11" 404 None
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/25/bad-bunny-kendall-jenner-private-dinner-miami/ HTTP/11" 200 37993
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/10/meghan-mccain-deeply-unpleasant-jennifer-lopez-the-view/ HTTP/11" 200 37629
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/02/daniel-tosh-claim-kylie-jenner-pregnant-timothee-chalamet-false-not-true/ HTTP/11" 200 37197
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/30/avril-lavigne-skate-date-skateboarding-singer-nate-smith-skater-boy/ HTTP/11" 200 40260
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/20/kim-kardashian-would-give-up-botox-for-acting-career-will-not-gain-weight/ HTTP/11" 200 39475
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/05/kim-kardashian-voice-distinct-annoying-actors-chloe-sevigny/ HTTP/11" 200 39363
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/26/love-island-usa-leah-kateb-dodges-question-kanye-west-dating-rumors/ HTTP/11" 200 39585
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/06/kim-kardashian-booed-tom-brady-roast-jokes-skewered-netflix/ HTTP/11" 200 42081
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/22/kim-kardashian-khloe-kardashian-bodysuit-funny-bathroom-video/ HTTP/11" 200 37633
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/09/celebrity-scramble-guess-who/ HTTP/11" 200 31841
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/30/khloe-kardashian-camel-toe-disappear-lost-weight-tv-confessional/ HTTP/11" 200 35995
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/03/chance-the-rapper-wife-kirsten-corley-announce-divorce/ HTTP/11" 200 None
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/18/kim-kardashian-mariah-carey-doja-cat-nobu-malibu/ HTTP/11" 200 38067
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/13/kourtney-kardashian-mothers-day-flowers-travis-barker-rocky/ HTTP/11" 200 41038
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/12/kanye-west-spent-7-million-on-yeezy-super-bowl-commercial-spot-tmz-podcast/ HTTP/11" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/31/kim-kardashian-kanye-west-dine-together-north-daughter-vultures-shirt/ HTTP/11" 200 43468
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/26/monaco-grand-prix-joe-jonas-anya-taylor-joy-star-studded/ HTTP/11" 200 40218
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/18/fffffkim-kardashian-broken-finger-injury-fingertip-bone-saint/ HTTP/11" 404 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/03/chance-the-rapper-y-su-esposa-kirsten-corley-anuncian-su-divorcio/ HTTP/11" 200 37035
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/10/kim-kardashian-chats-cozy-kris-humphries-former-friend-lakers-game/ HTTP/11" 200 40694
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/28/kim-kardashian-wake-surfing-perfectly-balanced-board/ HTTP/11" 200 38106
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/03/tmz-investigates-kanye-west-kim-kardashian-analyze-psychology-experts/ HTTP/11" 200 38296
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/23/kim-kardashian-quiet-kate-middleton-cancer-diagnosis-joke-online-instagram/ HTTP/11" 200 40443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/02/milf-manor-kelle-mortensen-kardashians-greatest-milfs-hot-mom/ HTTP/11" 200 40206
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/20/kim-kardashian-interact-kanye-west-los-angeles-saint-west-basketball-game/ HTTP/11" 200 41153
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/15/kim-kardashian-attend-kanye-west-rolling-loud-bianca-censori-north/ HTTP/11" 200 43780
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/16/kim-kardashian-traits-relationship-marriage-want-in-a-man-odell-beckham/ HTTP/11" 200 42028
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/23/kourtney-kardashian-surgery-fetal-emergency-rocky-baby/ HTTP/11" 200 38337
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/08/johnny-manziel-shares-kiss-josie-canseco-new-romance-l-bomb/ HTTP/11" 200 33598
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/15/kim-k-vuelve-a-la-orbita-de-bianca-y-kanye-para-apoyar-a-north/ HTTP/11" 200 44766
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/03/stars-in-corsets-guess-who/ HTTP/11" 200 33335
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/05/kourtney-kardashian-emotional-post-not-ready-kardashians-shoot-while-postpartum/ HTTP/11" 200 37025
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/27/kourtney-kardashian-supplement-lemme-facility-truck-robbed-ransom-note/ HTTP/11" 200 40189
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/01/kardashians-gave-blessing-caitlyn-jenner-lamar-odom-podcast/ HTTP/11" 200 42648
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/13/skims-wnba-kim-kardashian-kelsey-plum-candace-parker-skylar-diggins-smith/ HTTP/11" 200 33907
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/13/bad-bunny-looks-miserable-angry-mobbed-fans-phones-nashville/ HTTP/11" 200 37102
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/14/estrellas-en-el-dia-2-de-coachella-las-celebridades-se-duplican-en-el-desierto/ HTTP/11" 200 38821
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/02/daniel-tosh-claim-kylie-jenner-pregnant-timothee-chalamet-false-not-true/ HTTP/11" 200 37197
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/03/khloe-kardashian-hints-open-dating-women-lesbian/ HTTP/11" 200 36534
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/08/kourtney-kardashian-bikini-pic-postpartum-body-message/ HTTP/11" 200 36124
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/12/kris-jenner-sister-karen-houghton-cause-of-death-certificate/ HTTP/11" 200 36540
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/07/drake-michael-rubin-white-party-friendly-crowd-kendrick-lamar-songs/ HTTP/11" 200 41687
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/08/selena-gomez-gossip-taylor-swift-kylie-jenner-timothee-chalamet-golden-globes/ HTTP/11" 200 43353
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/05/kim-kardashian-copy-daughter-north-west-spotlight-lion-king-debut/ HTTP/11" 200 42697
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/10/kanye-west-sued-assault-battery-autograph-seeker/ HTTP/11" 200 39973
